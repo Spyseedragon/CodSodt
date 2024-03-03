@@ -1,0 +1,2 @@
+# CodSodt
+Internship projects python
